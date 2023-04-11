@@ -1,0 +1,6 @@
+MCP2518FD driver: https://github.com/torvalds/linux/tree/master/drivers/net/can/spi/mcp251xfd
+starting with 5.10.y 
+
+
+Xenomai download: https://xenomai.org/downloads
+
